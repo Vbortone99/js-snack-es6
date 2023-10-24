@@ -5,7 +5,7 @@
     nome del tavolo, (tableName)
     nome dell'ospite,  (guestName)
     posto occupato. (place)
-5. Generiamo e stampiamo in console la lista per i segnaposto.
+3. Generiamo e stampiamo in console la lista per i segnaposto.
 
 # SNACK 2
 Abbiamo un elenco degli studenti di una facoltà, identificati da id, Nome e somma totale dei loro voti di esame...

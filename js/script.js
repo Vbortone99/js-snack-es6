@@ -59,4 +59,6 @@ const vipList = [
         place:'10'
     },
 ];
-console.log(vipList)
+vipList.forEach(element => {
+    console.log(element);
+});
