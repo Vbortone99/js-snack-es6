@@ -105,9 +105,9 @@ const studentList = [
 ];
 
 studentList.filter(el => {
-    if(el.grades < 70){
+    if(el.grades > 70){
         // console.log(el);
-        console.log("Studenti con voto minore di 70:")
+        console.log("Studenti con voto superiore di 70:")
         console.log(el.name,el.grades);
     }
     return el;
