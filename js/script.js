@@ -105,10 +105,11 @@ const studentList = [
 ];
 
 studentList.filter(el => {
-    if(el.grades > 70){
+    if(el.grades > 70 && el.id > 120){
         // console.log(el);
         console.log("Studenti con voto superiore di 70:")
         console.log(el.name,el.grades);
+        console.log("id > 120" + " = " + el.id)
     }
     return el;
 });
