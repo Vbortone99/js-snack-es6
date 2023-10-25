@@ -1,3 +1,4 @@
+    <!-- 24/10/2023 -->
 # SNACK 1
 1. Dwayne Johnson ci ha chiesto di creare i segnaposto per il tavolo degli invitati alla sua mega festa vip. Ci ha lasciato il nome del tavolo ("Tavolo Vip") e la lista degli invitati in ordine di posto:
  La tipografia per stampare il tutto vuole che le mandiamo una lista di ospiti in un formato specifico,
@@ -25,3 +26,24 @@ Id  Name                Grades
 196 Luigi Grimaldello       68
 102 Piero della Francesca   50
 120 Francesca da Polenta    84
+
+<!-- 25/10/2023 -->
+
+# SNACK 3
+1. Creare un array di oggetti:
+
+2. Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
+
+3. Stampare in console la bici con peso minore utilizzando destructuring e template literal
+
+# SNACK 4
+1. Creare un array di oggetti di squadre di calcio. Ogni squadra avrà diverse proprietà: nome, punti fatti, falli subiti.
+
+2. Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0.
+
+3. Generare numeri random al posto degli 0 nelle proprietà: Punti fatti e falli subiti.
+
+4. Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
+
+# BONUS 
+Stampare in pagina oltre che in console!
